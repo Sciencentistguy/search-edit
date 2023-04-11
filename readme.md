@@ -1,4 +1,4 @@
-# Rust Program README
+# search-edit
 
 A command-line utility that allows the user to select a file using a fuzzy search algorithm and open it in their preferred text editor.
 
